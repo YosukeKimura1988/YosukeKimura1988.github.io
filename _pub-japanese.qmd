@@ -1,0 +1,19 @@
+<!-- Shared single-source partial. Edit here to update BOTH Research and CV. -->
+
+1. 「事業部間の生産性分散と企業内投資配分：探索としての多角化とガバナンス」
+   （*The Motivation of Corporate Focus and Diversification: An Empirical Analysis*；
+   共著：武田智・井上光太郎）『証券アナリストジャーナル』2026年3月（第64巻第3号）.
+
+2. 「情報生産としての生成AI」
+   （*Generative AI as Information Production and Processing*）
+   『経営財務研究』第45巻、2025年12月.
+   [[先行公開]](http://jfa.main.jp/journal/paper/JJF-forthcoming2025-005-pre.pdf)
+
+3. 「COVID-19と機関投資家行動：機械学習手法による検証」
+   （*Covid-19 and Institutional Investors Behavior: A Machine Learning Approach*；
+   共著：山田拓弥・中田和秀・井上光太郎）『経営財務研究』第44巻、2024年12月.
+
+4. 「企業の情報開示と株式の市場流動性」
+   （*Corporate Disclosure and Stock Market Liquidity*；
+   共著：田中研人・中田和秀・井上光太郎）
+   『証券アナリストジャーナル』2022年10月号（第60巻第10号）.

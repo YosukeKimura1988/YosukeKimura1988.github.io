@@ -30,101 +30,36 @@ These give a representative view of my research; the full list appears in the se
   [[Publisher]](https://doi.org/10.1016/j.jfineco.2024.103779)
 
 - **"Government Debt Maturity and the Term Structure in Japan."**
-  with Junko Koeda. *Japanese Economic Review*.
+  with Junko Koeda. *Japanese Economic Review*, 2025.
   [[Publisher]](https://doi.org/10.1007/s42973-025-00201-z) ·
   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015576)
 
+- **"Self-serving Attribution Bias and Corporate Actions."**
+  with Ying Chen and Kotaro Inoue. *Working paper (under review).*
+  *Best Paper Award, Corporate Finance Research Award (Mizuho Securities Endowed Chair,
+  Kyoto University Graduate School of Management).*
+
+- **"Managing Expectations and Corporate Financial Policy."**
+  with Ben Charoenwong and Alan Kwan. *R&R, Review of Finance.*
+  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592103)
 
 ---
 
 ## Peer-Reviewed Publications
 
-1. **"Are Managerial Cognitive Biases Priced in Japan? Evidence from Cross-Sectional
-   Portfolio Returns."**
-   with Ying Chen, Kei Nakagawa, and Kotaro Inoue.
-   *Finance Research Letters*, Vol. 85, Part B, November 2025, 107940.
-   [[Publisher]](https://doi.org/10.1016/j.frl.2025.107940)
-
-2. **"Government Debt Maturity and the Term Structure in Japan."**
-   with Junko Koeda. *Japanese Economic Review.*
-   [[Publisher]](https://doi.org/10.1007/s42973-025-00201-z) ·
-   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4015576) ·
-   [[WINPEC WP]](https://www.waseda.jp/fpse/winpec/assets/uploads/2021/04/E2103_version-1.pdf)
-
-3. **"How Does Managerial Perception of Uncertainty Affect Corporate Investment During the
-   COVID-19 Pandemic: A Text Mining Approach."**
-   with Ying Chen and Kotaro Inoue.
-   *Pacific-Basin Finance Journal*, Vol. 90, April 2025, 102655.
-   [[Publisher]](https://doi.org/10.1016/j.pacfin.2024.102655)
-
-4. **"Market-based Patent Value of Green Transformation Technology."**
-   *Finance Research Letters*, Vol. 68, October 2024, 106004.
-   [[Publisher]](https://doi.org/10.1016/j.frl.2024.106004) ·
-   [[RIETI DP]](https://www.rieti.go.jp/en/publications/summary/23120006.html)
-
-5. **"The Effects of Threshold Policies on Individual Effort in Uncertain Outcomes."**
-   *Economics Letters*, Vol. 241, August 2024, 111809.
-   [[Publisher]](https://doi.org/10.1016/j.econlet.2024.111809)
-
-6. **"Capital Budgeting, Uncertainty, and Misallocation."**
-   with Ben Charoenwong, Alan Kwan, and Eugene Tan.
-   *Journal of Financial Economics*, Vol. 153, March 2024.
-   [[Publisher]](https://doi.org/10.1016/j.jfineco.2024.103779)
-
-7. **"Aggregate Implications of Lumpy Investment under Heterogeneity and Uncertainty:
-   A Model of Collective Behavior."**
-   with Yoshiyuki Arata and Hiroki Murakami.
-   *Evolutionary and Institutional Economics Review*, 2017, Vol. 14(2), pp. 311–333.
-   [[Publisher]](https://link.springer.com/article/10.1007/s40844-017-0074-5)
+{{< include _pub-peer-reviewed.qmd >}}
 
 ---
 
 ## Publications in Japanese
 
-1. 「事業部間の生産性分散と企業内投資配分：探索としての多角化とガバナンス」
-   （共著：武田智・井上光太郎）『証券アナリストジャーナル』2026年3月（第64巻第3号）.
-
-2. 「情報生産としての生成AI」（*Generative AI as Information Production and Processing*）
-   『経営財務研究』第45巻、2025年12月.
-   [[先行公開]](http://jfa.main.jp/journal/paper/JJF-forthcoming2025-005-pre.pdf)
-
-3. 「COVID-19と機関投資家行動：機械学習手法による検証」
-   （*Covid-19 and Institutional Investors Behavior: A Machine Learning Approach*；
-   共著：山田拓弥・中田和秀・井上光太郎）『経営財務研究』第44巻、2024年12月.
-
-4. 「企業の情報開示と株式の市場流動性」
-   （*Corporate Disclosure and Stock Market Liquidity*；
-   共著：田中研人・中田和秀・井上光太郎）
-   『証券アナリストジャーナル』2022年10月号（第60巻第10号）.
+{{< include _pub-japanese.qmd >}}
 
 ---
 
 ## Working Papers
 
-1. **"Self-serving Attribution Bias and Corporate Actions."**
-   with Ying Chen and Kotaro Inoue. *(Under review)*
-   *Best Paper Award, Corporate Finance Research Award (Mizuho Securities Endowed Chair,
-   Kyoto University Graduate School of Management).*
-
-2. **"Managing Expectations and Corporate Financial Policy."**
-   with Ben Charoenwong and Alan Kwan. *(R&R, Review of Finance)*
-   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592103)
-
-3. **"Incremental Value of Data and Conditional Mutual Information."**
-
-4. **"The Geometry of Information Value: Alignment and Endogenous Dimensionality."**
-
-5. **"Institutional Investors' Engagement and the Size Effect on Stock Market Performance."**
-   with Haruta Osaki and Kotaro Inoue.
-   *Presented at: Osaka University (MMDS).*
-
-6. **"Selection and Effects of Environmental and Social Engagements by Institutional Investors."**
-   with Kexin Lin and Kotaro Inoue.
-   [[RIETI DP]](https://www.rieti.go.jp/en/publications/summary/23120012.html) ·
-   [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4678986)
-
-7. **"Corporate Networks, Co-patenting, and Technological Innovation."**
-   *Presented at: Osaka University, Tokyo Keizai University, Waseda University.*
+{{< include _pub-working.qmd >}}
 
 ---
 

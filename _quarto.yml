@@ -1,34 +1,47 @@
 project:
   type: website
+  # ⚠ DEPLOYMENT: keep this matching how your site is currently published.
+  # If you deploy by serving the "docs" folder from your main branch on
+  # GitHub Pages, keep the line below. If you publish with
+  # `quarto publish gh-pages`, delete this line (default output is _site).
   output-dir: docs
 
 website:
   title: "Yosuke Kimura"
-  site-url: "yosukekimura1988.github.io/"
+  site-url: https://yosukekimura1988.github.io
   navbar:
+    pinned: true
     left:
       - href: index.qmd
         text: Home
       - href: research.qmd
         text: Research
-      - href: projects.qmd
-        text: Projects
-      - href: teaching.qmd
-        text: Teaching
-      - href: students.qmd
-        text: Students
       - href: igp.qmd
         text: IGP
+      #- href: students.qmd
+      #  text: Students
       - href: cv.qmd
         text: CV
+      # Optional pages that already exist in your repo — uncomment to link them:
+      # - href: projects.qmd
+      #   text: Projects
+      # - href: teaching.qmd
+      #   text: Teaching
     right:
+      - icon: mortarboard-fill
+        href: https://scholar.google.co.jp/citations?user=OnoM0yEAAAAJ&hl=ja
+        aria-label: Google Scholar
       - icon: github
         href: https://github.com/yosukekimura1988
-      - icon: google
-        href: https://scholar.google.com/
+        aria-label: GitHub
+  page-footer:
+    border: true
+    left: "© 2026 Yosuke Kimura"
+    right: "Built with [Quarto](https://quarto.org)"
 
 format:
   html:
     theme: cosmo
-    toc: true
-    page-layout: full
+    toc-depth: 2
+    fontsize: 1.05rem
+    linkcolor: "#1f6feb"

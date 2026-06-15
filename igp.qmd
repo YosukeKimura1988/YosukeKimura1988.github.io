@@ -1,0 +1,73 @@
+---
+title: "For Prospective IGP Applicants"
+description: "Guidance for students interested in joining my laboratory through the International Graduate Program (IGP)"
+toc: true
+toc-depth: 2
+---
+
+Thank you for your interest in joining my laboratory through the International Graduate
+Program (IGP).
+
+I welcome inquiries from students whose academic interests are closely related to my
+research. I particularly welcome inquiries from prospective PhD students, as well as
+prospective master's students who are strongly research-oriented and are considering
+continuing to doctoral studies in the future. Before contacting me, please read the
+information below carefully.
+
+::: {.callout-tip}
+## Before you email
+Please make sure your interests overlap with my current work, and include the materials
+listed in section 2 in a **single** email. Applications that clearly show research fit are
+much more likely to receive a reply.
+:::
+
+---
+
+## 1. Research fit
+
+Before sending an email, please make sure that your research interests are clearly connected
+to my current work. I encourage you to read several of my recent papers on the
+[Research page](research.html) and to explain specifically why you are interested in my
+research group.
+
+## 2. What to include in your email
+
+When contacting me for the first time, please include the following information in a single
+email:
+
+- your full name and current affiliation
+- the degree program you wish to apply for
+- your academic background and research interests
+- a brief explanation of why you want to work with me
+- your CV
+- your academic transcript
+- your English test score, if available
+- a brief research proposal or statement of purpose
+
+Please write your email clearly and concisely.
+
+## 3. Important note
+
+Please note that contacting me does not guarantee supervision or admission. Any decision
+depends on the match between your interests and my research, my supervisory capacity, and the
+official admission process of the university.
+
+## 4. Official application requirements
+
+The information on this page is only intended as guidance for students who wish to contact me
+in advance. For official eligibility requirements, application procedures, and deadlines,
+please make sure to consult the university's official IGP website:
+
+- [International Graduate Program — Institute of Science Tokyo](https://admissions.isct.ac.jp/en/013/graduate/programs/science-and-engineering)
+
+## 5. Response policy
+
+Because I receive many inquiries, I may not be able to reply to every email. I am more likely
+to respond to applicants whose research interests closely match my work and whose emails
+include the materials listed above.
+
+---
+
+## Contact
+
+Email: kimura.y.7ea7[at]m.isct.ac.jp

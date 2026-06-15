@@ -1,10 +1,108 @@
 [
   {
-    "objectID": "about.html",
-    "href": "about.html",
-    "title": "About",
+    "objectID": "cv.html",
+    "href": "cv.html",
+    "title": "Curriculum Vitae",
     "section": "",
-    "text": "About this site"
+    "text": "Yosuke Kimura\nAssociate Professor of Finance, Institute of Science Tokyo\n2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan\nkimura.y.7ea7[at]m.isct.ac.jp · kimura.y.bq[at]m.titech.ac.jp\nyosukekimura1988.github.io\nDownload PDF version"
+  },
+  {
+    "objectID": "cv.html#current-position",
+    "href": "cv.html#current-position",
+    "title": "Curriculum Vitae",
+    "section": "Current Position",
+    "text": "Current Position\n\n2024–Present — Associate Professor of Finance, Institute of Science Tokyo"
+  },
+  {
+    "objectID": "cv.html#education",
+    "href": "cv.html#education",
+    "title": "Curriculum Vitae",
+    "section": "Education",
+    "text": "Education\n\n2017 — Ph.D. in Economics, The University of Tokyo\n2013 — M.A. in Economics, The University of Tokyo\n2011 — B.S. in Economics, The University of Tokyo"
+  },
+  {
+    "objectID": "cv.html#research-interests",
+    "href": "cv.html#research-interests",
+    "title": "Curriculum Vitae",
+    "section": "Research Interests",
+    "text": "Research Interests\nFirm Dynamics · Innovation · Corporate Finance · Networks · Information · Asset Pricing · Macroeconomics"
+  },
+  {
+    "objectID": "cv.html#employment",
+    "href": "cv.html#employment",
+    "title": "Curriculum Vitae",
+    "section": "Employment",
+    "text": "Employment\n\n2020–2024 — Assistant Professor, Tokyo Institute of Technology\n2017–2020 — Economist, Policy Research Institute, Ministry of Finance\n2013–2015 — JSPS Research Fellowship for Young Scientists (DC1)"
+  },
+  {
+    "objectID": "cv.html#publications",
+    "href": "cv.html#publications",
+    "title": "Curriculum Vitae",
+    "section": "Publications",
+    "text": "Publications\n\nRefereed Journal Articles\n\n\n“Are Managerial Cognitive Biases Priced in Japan? Evidence from Cross-Sectional Portfolio Returns.” with Ying Chen, Kei Nakagawa, and Kotaro Inoue. Finance Research Letters, Vol. 85, Part B, November 2025, 107940. [Publisher]\n“Government Debt Maturity and the Term Structure in Japan.” with Junko Koeda. Japanese Economic Review, 2025. [Publisher] · [SSRN] · [WINPEC WP]\n“How Does Managerial Perception of Uncertainty Affect Corporate Investment During the COVID-19 Pandemic: A Text Mining Approach.” with Ying Chen and Kotaro Inoue. Pacific-Basin Finance Journal, Vol. 90, April 2025, 102655. [Publisher]\n“Market-based Patent Value of Green Transformation Technology.” Finance Research Letters, Vol. 68, October 2024, 106004. [Publisher] · [RIETI DP]\n“The Effects of Threshold Policies on Individual Effort in Uncertain Outcomes.” Economics Letters, Vol. 241, August 2024, 111809. [Publisher]\n“Capital Budgeting, Uncertainty, and Misallocation.” with Ben Charoenwong, Alan Kwan, and Eugene Tan. Journal of Financial Economics, Vol. 153, March 2024. [Publisher]\n“Aggregate Implications of Lumpy Investment under Heterogeneity and Uncertainty: A Model of Collective Behavior.” with Yoshiyuki Arata and Hiroki Murakami. Evolutionary and Institutional Economics Review, 2017, Vol. 14(2), pp. 311–333. [Publisher]\n\n\n\nRefereed Articles (in Japanese)\n\n\n「事業部間の生産性分散と企業内投資配分：探索としての多角化とガバナンス」 （The Motivation of Corporate Focus and Diversification: An Empirical Analysis； 共著：武田智・井上光太郎）『証券アナリストジャーナル』2026年3月（第64巻第3号）.\n「情報生産としての生成AI」 （Generative AI as Information Production and Processing） 『経営財務研究』第45巻、2025年12月. [先行公開]\n「COVID-19と機関投資家行動：機械学習手法による検証」 （Covid-19 and Institutional Investors Behavior: A Machine Learning Approach； 共著：山田拓弥・中田和秀・井上光太郎）『経営財務研究』第44巻、2024年12月.\n「企業の情報開示と株式の市場流動性」 （Corporate Disclosure and Stock Market Liquidity； 共著：田中研人・中田和秀・井上光太郎） 『証券アナリストジャーナル』2022年10月号（第60巻第10号）."
+  },
+  {
+    "objectID": "cv.html#working-papers",
+    "href": "cv.html#working-papers",
+    "title": "Curriculum Vitae",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n“Self-serving Attribution Bias and Corporate Actions.” with Ying Chen and Kotaro Inoue. (Under review) Best Paper Award, Corporate Finance Research Award (Mizuho Securities Endowed Chair, Kyoto University Graduate School of Management).\n“Managing Expectations and Corporate Financial Policy.” with Ben Charoenwong and Alan Kwan. (R&R, Review of Finance) [SSRN]\n“Incremental Value of Data and Conditional Mutual Information.”\n“The Geometry of Information Value: Alignment and Endogenous Dimensionality.”\n“Institutional Investors’ Engagement and the Size Effect on Stock Market Performance.” with Haruta Osaki and Kotaro Inoue.\n“Selection and Effects of Environmental and Social Engagements by Institutional Investors.” with Kexin Lin and Kotaro Inoue. [RIETI DP] · [SSRN]\n“Corporate Networks, Co-patenting, and Technological Innovation.”"
+  },
+  {
+    "objectID": "cv.html#grants",
+    "href": "cv.html#grants",
+    "title": "Curriculum Vitae",
+    "section": "Grants",
+    "text": "Grants\n\n2024–2027 — PI, JSPS Grant-in-Aid for Early-Career Scientists\n2024 — PI, Nomura Foundation Research Grant\n2023 — Grant for New Research Challenge, Tokyo Institute of Technology\n2020 — Incentive Research Grant for Assistant Professors, Tokyo Institute of Technology\n2019–2022 — PI, JSPS Grant-in-Aid for Early-Career Scientists\n2017–2018 — PI, JSPS Grant-in-Aid for Research Activity Start-up"
+  },
+  {
+    "objectID": "igp.html",
+    "href": "igp.html",
+    "title": "For Prospective IGP Applicants",
+    "section": "",
+    "text": "Thank you for your interest in joining my laboratory through the International Graduate Program (IGP).\nI welcome inquiries from students whose academic interests are closely related to my research. I particularly welcome inquiries from prospective PhD students, as well as prospective master’s students who are strongly research-oriented and are considering continuing to doctoral studies in the future. Before contacting me, please read the information below carefully."
+  },
+  {
+    "objectID": "igp.html#research-fit",
+    "href": "igp.html#research-fit",
+    "title": "For Prospective IGP Applicants",
+    "section": "1. Research fit",
+    "text": "1. Research fit\nBefore sending an email, please make sure that your research interests are clearly connected to my current work. I encourage you to read several of my recent papers on the Research page and to explain specifically why you are interested in my research group."
+  },
+  {
+    "objectID": "igp.html#what-to-include-in-your-email",
+    "href": "igp.html#what-to-include-in-your-email",
+    "title": "For Prospective IGP Applicants",
+    "section": "2. What to include in your email",
+    "text": "2. What to include in your email\nWhen contacting me for the first time, please include the following information in a single email:\n\nyour full name and current affiliation\nthe degree program you wish to apply for\nyour academic background and research interests\na brief explanation of why you want to work with me\nyour CV\nyour academic transcript\nyour English test score, if available\na brief research proposal or statement of purpose\n\nPlease write your email clearly and concisely."
+  },
+  {
+    "objectID": "igp.html#important-note",
+    "href": "igp.html#important-note",
+    "title": "For Prospective IGP Applicants",
+    "section": "3. Important note",
+    "text": "3. Important note\nPlease note that contacting me does not guarantee supervision or admission. Any decision depends on the match between your interests and my research, my supervisory capacity, and the official admission process of the university."
+  },
+  {
+    "objectID": "igp.html#official-application-requirements",
+    "href": "igp.html#official-application-requirements",
+    "title": "For Prospective IGP Applicants",
+    "section": "4. Official application requirements",
+    "text": "4. Official application requirements\nThe information on this page is only intended as guidance for students who wish to contact me in advance. For official eligibility requirements, application procedures, and deadlines, please make sure to consult the university’s official IGP website:\n\nInternational Graduate Program — Institute of Science Tokyo"
+  },
+  {
+    "objectID": "igp.html#response-policy",
+    "href": "igp.html#response-policy",
+    "title": "For Prospective IGP Applicants",
+    "section": "5. Response policy",
+    "text": "5. Response policy\nBecause I receive many inquiries, I may not be able to reply to every email. I am more likely to respond to applicants whose research interests closely match my work and whose emails include the materials listed above."
+  },
+  {
+    "objectID": "igp.html#contact",
+    "href": "igp.html#contact",
+    "title": "For Prospective IGP Applicants",
+    "section": "Contact",
+    "text": "Contact\nEmail: kimura.y.7ea7[at]m.isct.ac.jp"
   },
   {
     "objectID": "projects.html",
@@ -49,6 +147,62 @@
     "text": "Incremental Value of Data\nThis project studies the value of data through conditional mutual information and prediction-based decision problems."
   },
   {
+    "objectID": "research.html",
+    "href": "research.html",
+    "title": "Research",
+    "section": "",
+    "text": "I work at the intersection of corporate finance, information economics, and firm dynamics. My research asks how firms and investors produce, disclose, and act on information under uncertainty — and how those decisions aggregate into market outcomes. Recurring threads include the value of information and data, managerial behavior and cognition, institutional investor engagement, and innovation and corporate networks, studied with both theoretical models and large-scale text and patent data."
+  },
+  {
+    "objectID": "research.html#selected-publications",
+    "href": "research.html#selected-publications",
+    "title": "Research",
+    "section": "Selected Publications",
+    "text": "Selected Publications\nThese give a representative view of my research; the full list appears in the sections below.\n\n“Capital Budgeting, Uncertainty, and Misallocation.” with Ben Charoenwong, Alan Kwan, and Eugene Tan. Journal of Financial Economics, Vol. 153, March 2024. [Publisher]\n“Government Debt Maturity and the Term Structure in Japan.” with Junko Koeda. Japanese Economic Review, 2025. [Publisher] · [SSRN]\n“Self-serving Attribution Bias and Corporate Actions.” with Ying Chen and Kotaro Inoue. Working paper (under review). Best Paper Award, Corporate Finance Research Award (Mizuho Securities Endowed Chair, Kyoto University Graduate School of Management).\n“Managing Expectations and Corporate Financial Policy.” with Ben Charoenwong and Alan Kwan. R&R, Review of Finance. [SSRN]"
+  },
+  {
+    "objectID": "research.html#peer-reviewed-publications",
+    "href": "research.html#peer-reviewed-publications",
+    "title": "Research",
+    "section": "Peer-Reviewed Publications",
+    "text": "Peer-Reviewed Publications\n\n\n“Are Managerial Cognitive Biases Priced in Japan? Evidence from Cross-Sectional Portfolio Returns.” with Ying Chen, Kei Nakagawa, and Kotaro Inoue. Finance Research Letters, Vol. 85, Part B, November 2025, 107940. [Publisher]\n“Government Debt Maturity and the Term Structure in Japan.” with Junko Koeda. Japanese Economic Review, 2025. [Publisher] · [SSRN] · [WINPEC WP]\n“How Does Managerial Perception of Uncertainty Affect Corporate Investment During the COVID-19 Pandemic: A Text Mining Approach.” with Ying Chen and Kotaro Inoue. Pacific-Basin Finance Journal, Vol. 90, April 2025, 102655. [Publisher]\n“Market-based Patent Value of Green Transformation Technology.” Finance Research Letters, Vol. 68, October 2024, 106004. [Publisher] · [RIETI DP]\n“The Effects of Threshold Policies on Individual Effort in Uncertain Outcomes.” Economics Letters, Vol. 241, August 2024, 111809. [Publisher]\n“Capital Budgeting, Uncertainty, and Misallocation.” with Ben Charoenwong, Alan Kwan, and Eugene Tan. Journal of Financial Economics, Vol. 153, March 2024. [Publisher]\n“Aggregate Implications of Lumpy Investment under Heterogeneity and Uncertainty: A Model of Collective Behavior.” with Yoshiyuki Arata and Hiroki Murakami. Evolutionary and Institutional Economics Review, 2017, Vol. 14(2), pp. 311–333. [Publisher]"
+  },
+  {
+    "objectID": "research.html#publications-in-japanese",
+    "href": "research.html#publications-in-japanese",
+    "title": "Research",
+    "section": "Publications in Japanese",
+    "text": "Publications in Japanese\n\n\n「事業部間の生産性分散と企業内投資配分：探索としての多角化とガバナンス」 （The Motivation of Corporate Focus and Diversification: An Empirical Analysis； 共著：武田智・井上光太郎）『証券アナリストジャーナル』2026年3月（第64巻第3号）.\n「情報生産としての生成AI」 （Generative AI as Information Production and Processing） 『経営財務研究』第45巻、2025年12月. [先行公開]\n「COVID-19と機関投資家行動：機械学習手法による検証」 （Covid-19 and Institutional Investors Behavior: A Machine Learning Approach； 共著：山田拓弥・中田和秀・井上光太郎）『経営財務研究』第44巻、2024年12月.\n「企業の情報開示と株式の市場流動性」 （Corporate Disclosure and Stock Market Liquidity； 共著：田中研人・中田和秀・井上光太郎） 『証券アナリストジャーナル』2022年10月号（第60巻第10号）."
+  },
+  {
+    "objectID": "research.html#working-papers",
+    "href": "research.html#working-papers",
+    "title": "Research",
+    "section": "Working Papers",
+    "text": "Working Papers\n\n\n“Self-serving Attribution Bias and Corporate Actions.” with Ying Chen and Kotaro Inoue. (Under review) Best Paper Award, Corporate Finance Research Award (Mizuho Securities Endowed Chair, Kyoto University Graduate School of Management).\n“Managing Expectations and Corporate Financial Policy.” with Ben Charoenwong and Alan Kwan. (R&R, Review of Finance) [SSRN]\n“Incremental Value of Data and Conditional Mutual Information.”\n“The Geometry of Information Value: Alignment and Endogenous Dimensionality.”\n“Institutional Investors’ Engagement and the Size Effect on Stock Market Performance.” with Haruta Osaki and Kotaro Inoue.\n“Selection and Effects of Environmental and Social Engagements by Institutional Investors.” with Kexin Lin and Kotaro Inoue. [RIETI DP] · [SSRN]\n“Corporate Networks, Co-patenting, and Technological Innovation.”"
+  },
+  {
+    "objectID": "research.html#work-in-progress",
+    "href": "research.html#work-in-progress",
+    "title": "Research",
+    "section": "Work in Progress",
+    "text": "Work in Progress\n\n“Optimal Layered Communication by Central Bank: A Gaussian Benchmark.”\n“Strategic Expression and the Distortion of Public Opinion.”\n“The Dynamics of True and False Information Diffusion.”"
+  },
+  {
+    "objectID": "research.html#book-chapters",
+    "href": "research.html#book-chapters",
+    "title": "Research",
+    "section": "Book Chapters",
+    "text": "Book Chapters\n\n「キャッシュレスの普及に関する考察」財務省財務総合政策研究所（編） 『キャッシュレス・イノベーション―決済手段の進化と海外事情』第5章、pp. 153–170、きんざい.\n「特許から見るイノベーションと産業構造の変化」大橋弘・財務省財務総合政策研究所（編） 『イノベーションの研究―生産性向上の本質とは何か』第7章、pp. 203–225、きんざい."
+  },
+  {
+    "objectID": "research.html#policy-articles-and-other-writing",
+    "href": "research.html#policy-articles-and-other-writing",
+    "title": "Research",
+    "section": "Policy Articles and Other Writing",
+    "text": "Policy Articles and Other Writing\n\n「企業統治の論点（下）成長に繋がる規律 必須」（共著：井上光太郎） 『日本経済新聞』2022年10月3日.\n「企業のガバナンスとリスクテイク」財務省広報誌『ファイナンス』2018年11月. [PDF]\n「為替レートと貿易収支の調整過程」財務省広報誌『ファイナンス』2018年1月. [PDF]\n“Heterogeneous Investor Behavior and Stock Market Volatility in the Tokyo Stock Exchange.” RIETI Discussion Paper. [RIETI DP]"
+  },
+  {
     "objectID": "teaching.html",
     "href": "teaching.html",
     "title": "Teaching",
@@ -63,29 +217,29 @@
     "text": "Topics include capital budgeting, cost of capital, capital structure, payout policy, IPOs, M&A, and corporate governance.\n\n\n\nTopics include strategy, organization, incentives, decision-making, and data-driven management.\n\n\n\nTopics include optimization, linear algebra, probability, and dynamic systems for economics and finance."
   },
   {
-    "objectID": "research.html",
-    "href": "research.html",
+    "objectID": "research_old.html",
+    "href": "research_old.html",
     "title": "Research",
     "section": "",
     "text": "Charoenwong, B., Kwan, A., Tan, E., and Kimura, Y.\n“Capital Budgeting, Uncertainty, and Misallocation.”\nJournal of Financial Economics, 2024.\nChen, Y., Nakagawa, K., Kimura, Y., and Inoue, K.\n“Are Managerial Cognitive Biases Priced in Japan?”\nFinance Research Letters, 2025."
   },
   {
-    "objectID": "research.html#selected-publications",
-    "href": "research.html#selected-publications",
+    "objectID": "research_old.html#selected-publications",
+    "href": "research_old.html#selected-publications",
     "title": "Research",
     "section": "",
     "text": "Charoenwong, B., Kwan, A., Tan, E., and Kimura, Y.\n“Capital Budgeting, Uncertainty, and Misallocation.”\nJournal of Financial Economics, 2024.\nChen, Y., Nakagawa, K., Kimura, Y., and Inoue, K.\n“Are Managerial Cognitive Biases Priced in Japan?”\nFinance Research Letters, 2025."
   },
   {
-    "objectID": "research.html#working-papers",
-    "href": "research.html#working-papers",
+    "objectID": "research_old.html#working-papers",
+    "href": "research_old.html#working-papers",
     "title": "Research",
     "section": "Working Papers",
     "text": "Working Papers\n\nPayoff-Relevant Information Architecture\nThis project studies how information structures should be designed when only some dimensions of uncertainty are payoff-relevant for downstream decisions.\n\n\nIncremental Value of Data and Conditional Mutual Information\nThis paper develops a decision-theoretic model of the incremental value of data and shows how conditional mutual information characterizes the value of an additional signal."
   },
   {
-    "objectID": "research.html#work-in-progress",
-    "href": "research.html#work-in-progress",
+    "objectID": "research_old.html#work-in-progress",
+    "href": "research_old.html#work-in-progress",
     "title": "Research",
     "section": "Work in Progress",
     "text": "Work in Progress\n\nMarket for Credibility\nProofs without Disclosure\nFirm Dynamics after IPO\nLayered Communication by Central Banks"
@@ -95,27 +249,20 @@
     "href": "index.html",
     "title": "Yosuke Kimura",
     "section": "",
-    "text": "I am an Associate Professor at Institute of Science Tokyo.\nMy research interests include corporate finance, firm dynamics, information economics, innovation, and financial markets."
+    "text": "Associate Professor, Department of Industrial Engineering and Economics, School of Engineering, Institute of Science Tokyo\n木村遥介（きむら ようすけ）／ 東京科学大学 工学院 経営工学系 准教授\nI am an Associate Professor in the Inoue–Kimura Laboratory at the Institute of Science Tokyo. I obtained my Ph.D. in Economics from the University of Tokyo in 2017. I am also a visiting researcher at the Policy Research Institute, Ministry of Finance, Japan.\n\n\nCorporate Finance · Firm Dynamics · Innovation · Networks · Information · Asset Pricing · Macroeconomics\n\n\n\n\n\n\nNoteProspective graduate students\n\n\n\nI welcome inquiries from prospective graduate students through the International Graduate Program (IGP). If your interests align with my research, please read the guidance for applicants before contacting me.\n\n\n\n\n\n\nMarch 2026 — Added guidance for prospective IGP applicants. See the IGP page.\n\n\n\n\nEmail:\n\nkimura.y.7ea7[at]m.isct.ac.jp\nkimura.y.bq[at]m.titech.ac.jp\n\nAddress: 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan"
   },
   {
-    "objectID": "index.html#associate-professor-of-finance",
-    "href": "index.html#associate-professor-of-finance",
+    "objectID": "index.html#yosuke-kimura",
+    "href": "index.html#yosuke-kimura",
     "title": "Yosuke Kimura",
     "section": "",
-    "text": "I am an Associate Professor at Institute of Science Tokyo.\nMy research interests include corporate finance, firm dynamics, information economics, innovation, and financial markets."
+    "text": "Associate Professor, Department of Industrial Engineering and Economics, School of Engineering, Institute of Science Tokyo\n木村遥介（きむら ようすけ）／ 東京科学大学 工学院 経営工学系 准教授\nI am an Associate Professor in the Inoue–Kimura Laboratory at the Institute of Science Tokyo. I obtained my Ph.D. in Economics from the University of Tokyo in 2017. I am also a visiting researcher at the Policy Research Institute, Ministry of Finance, Japan.\n\n\nCorporate Finance · Firm Dynamics · Innovation · Networks · Information · Asset Pricing · Macroeconomics\n\n\n\n\n\n\nNoteProspective graduate students\n\n\n\nI welcome inquiries from prospective graduate students through the International Graduate Program (IGP). If your interests align with my research, please read the guidance for applicants before contacting me.\n\n\n\n\n\n\nMarch 2026 — Added guidance for prospective IGP applicants. See the IGP page.\n\n\n\n\nEmail:\n\nkimura.y.7ea7[at]m.isct.ac.jp\nkimura.y.bq[at]m.titech.ac.jp\n\nAddress: 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan"
   },
   {
-    "objectID": "index.html#research-interests",
-    "href": "index.html#research-interests",
-    "title": "Yosuke Kimura",
-    "section": "Research Interests",
-    "text": "Research Interests\n\nCorporate finance\nFirm dynamics\nInformation, disclosure, and financial markets\nInnovation and networks\nData, AI, and decision-making"
-  },
-  {
-    "objectID": "index.html#contact",
-    "href": "index.html#contact",
-    "title": "Yosuke Kimura",
-    "section": "Contact",
-    "text": "Contact\nEmail: kimura.y.bq[at]m.titech.ac.jp"
+    "objectID": "about.html",
+    "href": "about.html",
+    "title": "About",
+    "section": "",
+    "text": "About this site"
   }
 ]

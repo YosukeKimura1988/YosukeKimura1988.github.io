@@ -1,0 +1,71 @@
+---
+title: "Curriculum Vitae"
+date: today
+date-format: "MMMM YYYY"
+format-links: false
+format:
+  html:
+    toc: true
+    toc-depth: 2
+  typst:
+    output-file: cv.pdf
+    papersize: a4
+    fontsize: 10.5pt
+    margin:
+      x: 1.6cm
+      y: 1.8cm
+---
+
+**Yosuke Kimura**\
+Associate Professor of Finance, Institute of Science Tokyo\
+2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan\
+kimura.y.7ea7[at]m.isct.ac.jp · kimura.y.bq[at]m.titech.ac.jp\
+[yosukekimura1988.github.io](https://yosukekimura1988.github.io)
+
+::: {.content-visible when-format="html"}
+[Download PDF version](cv.pdf){.btn .btn-outline-primary .btn-sm}
+:::
+
+## Current Position
+
+- **2024–Present** — Associate Professor of Finance, Institute of Science Tokyo
+
+## Education
+
+- **2017** — Ph.D. in Economics, The University of Tokyo
+- **2013** — M.A. in Economics, The University of Tokyo
+- **2011** — B.S. in Economics, The University of Tokyo
+
+## Research Interests
+
+Firm Dynamics · Innovation · Corporate Finance · Networks · Information ·
+Asset Pricing · Macroeconomics
+
+## Employment
+
+- **2020–2024** — Assistant Professor, Tokyo Institute of Technology
+- **2017–2020** — Economist, Policy Research Institute, Ministry of Finance
+- **2013–2015** — JSPS Research Fellowship for Young Scientists (DC1)
+
+## Publications
+
+### Refereed Journal Articles
+
+{{< include _pub-peer-reviewed.qmd >}}
+
+### Refereed Articles (in Japanese)
+
+{{< include _pub-japanese.qmd >}}
+
+## Working Papers
+
+{{< include _pub-working.qmd >}}
+
+## Grants
+
+- **2024–2027** — PI, JSPS Grant-in-Aid for Early-Career Scientists
+- **2024** — PI, Nomura Foundation Research Grant
+- **2023** — Grant for New Research Challenge, Tokyo Institute of Technology
+- **2020** — Incentive Research Grant for Assistant Professors, Tokyo Institute of Technology
+- **2019–2022** — PI, JSPS Grant-in-Aid for Early-Career Scientists
+- **2017–2018** — PI, JSPS Grant-in-Aid for Research Activity Start-up

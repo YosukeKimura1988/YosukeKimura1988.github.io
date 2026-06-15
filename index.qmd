@@ -1,21 +1,62 @@
 ---
 title: "Yosuke Kimura"
+subtitle: "Associate Professor, Institute of Science Tokyo"
+about:
+  template: trestles
+  image: profile.jpg
+  image-shape: rounded
+  links:
+    - icon: mortarboard-fill
+      text: Google Scholar
+      href: https://scholar.google.co.jp/citations?user=OnoM0yEAAAAJ&hl=ja
+    - icon: person-badge
+      text: STAR Search
+      href: https://search.star.titech.ac.jp/titech-ss/pursuer.act?event=outside&key_t2r2Rid=CTT100840717&lang=jp
+    - icon: linkedin
+      text: LinkedIn
+      href: http://www.linkedin.com/in/yousuke-kimura-a8380220a
+    - icon: twitter-x
+      text: X (Twitter)
+      href: https://twitter.com/YosukeBqKimura
+    - icon: github
+      text: GitHub
+      href: https://github.com/yosukekimura1988
 ---
 
-## Associate Professor of Finance
+## Yosuke Kimura
 
-I am an Associate Professor at Institute of Science Tokyo.
+Associate Professor, Department of Industrial Engineering and Economics,
+School of Engineering, Institute of Science Tokyo
 
-My research interests include corporate finance, firm dynamics, information economics, innovation, and financial markets.
+木村遥介（きむら ようすけ）／ 東京科学大学 工学院 経営工学系 准教授
 
-## Research Interests
+I am an Associate Professor in the
+[Inoue–Kimura Laboratory](http://www.me.titech.ac.jp/~inouelab/) at the
+[Institute of Science Tokyo](https://www.isct.ac.jp/en). I obtained my Ph.D. in Economics
+from the University of Tokyo in 2017. I am also a visiting researcher at the Policy Research
+Institute, Ministry of Finance, Japan.
 
-- Corporate finance
-- Firm dynamics
-- Information, disclosure, and financial markets
-- Innovation and networks
-- Data, AI, and decision-making
+### Research Interests
 
-## Contact
+Corporate Finance · Firm Dynamics · Innovation · Networks · Information ·
+Asset Pricing · Macroeconomics
 
-Email: kimura.y.bq[at]m.titech.ac.jp
+::: {.callout-note}
+## Prospective graduate students
+I welcome inquiries from prospective graduate students through the International Graduate
+Program (IGP). If your interests align with my research, please read the
+[guidance for applicants](igp.html) before contacting me.
+:::
+
+### News
+
+- **March 2026** — Added guidance for prospective IGP applicants. See the [IGP page](igp.html).
+
+### Contact
+
+Email:
+
+- kimura.y.7ea7[at]m.isct.ac.jp
+- kimura.y.bq[at]m.titech.ac.jp
+
+Address: 2-12-1 Ookayama, Meguro-ku, Tokyo 152-8550, Japan
