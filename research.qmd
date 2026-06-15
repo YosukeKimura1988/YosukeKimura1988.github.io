@@ -39,10 +39,6 @@ These give a representative view of my research; the full list appears in the se
   *Best Paper Award, Corporate Finance Research Award (Mizuho Securities Endowed Chair,
   Kyoto University Graduate School of Management).*
 
-- **"Managing Expectations and Corporate Financial Policy."**
-  with Ben Charoenwong and Alan Kwan. *R&R, Review of Finance.*
-  [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592103)
-
 ---
 
 ## Peer-Reviewed Publications
@@ -65,9 +61,20 @@ These give a representative view of my research; the full list appears in the se
 
 ## Work in Progress
 
-1. **"Optimal Layered Communication by Central Bank: A Gaussian Benchmark."**
-2. **"Strategic Expression and the Distortion of Public Opinion."**
-3. **"The Dynamics of True and False Information Diffusion."**
+1. **Self-Fulfilling Public Market Access: When Large Equity Markets Are Functionally Thin**
+   
+   Why can a large stock market fail to finance new growth? This paper distinguishes market size, a stock of claims on existing assets, from public market access, a flow capability that can be crowded out by the very stock of mature listed firms, so that a market becomes large yet functionally thin.
+2. **The Market for Credibility: Turbulence, Scrutiny, and the Concentration of Trust**
+   
+   Why does trust in information concentrate in fewer sources precisely when reliability is hardest to verify? This paper models credibility as a disciplined equilibrium, sustained by franchise value against the temptation to suppress bad news, and shows that turbulence acts as a trust multiplier whose strength, shaped by how strongly audiences reward scrutiny, determines whether trust concentrates smoothly or tips abruptly.
+
+3. **The Geometry of Information Value: Alignment and Endogenous Dimensionality**
+
+   Why do high-dimensional decision problems so often give rise to low-dimensional information systems? This paper distinguishes the dimensionality of uncertainty itself from the dimensionality of payoff-relevant uncertainty, showing that optimal information architectures align with the directions that matter most for decision quality and become low-dimensional precisely when payoff relevance is concentrated.
+
+4. **Optimal Layered Communication by Central Bank: A Gaussian Benchmark**
+5. **Proofs without Disclosure**
+6. **The Dynamics of True and False Information Diffusion**
 
 ---
 

@@ -11,14 +11,12 @@
 
 3. **"Incremental Value of Data and Conditional Mutual Information."**
 
-4. **"The Geometry of Information Value: Alignment and Endogenous Dimensionality."**
-
-5. **"Institutional Investors' Engagement and the Size Effect on Stock Market Performance."**
+4. **"Institutional Investors' Engagement and the Size Effect on Stock Market Performance."**
    with Haruta Osaki and Kotaro Inoue.
 
-6. **"Selection and Effects of Environmental and Social Engagements by Institutional Investors."**
+5. **"Selection and Effects of Environmental and Social Engagements by Institutional Investors."**
    with Kexin Lin and Kotaro Inoue.
    [[RIETI DP]](https://www.rieti.go.jp/en/publications/summary/23120012.html) ·
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4678986)
 
-7. **"Corporate Networks, Co-patenting, and Technological Innovation."**
+6. **"Corporate Networks, Co-patenting, and Technological Innovation."**
