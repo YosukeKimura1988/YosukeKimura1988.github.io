@@ -9,14 +9,32 @@
    with Ben Charoenwong and Alan Kwan. *(R&R, Review of Finance)*
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=3592103)
 
-3. **"Incremental Value of Data and Conditional Mutual Information."**
+3. **"When Does Arbitrage Fire? Route Costs and Limits to Arbitrage."**
+   Using on-chain stablecoin redemptions (Liquity's LUSD and BOLD), shows that realized
+   arbitrage begins at the point implied by the measured cost of its execution route, and
+   that route design shapes the direction and size of arbitrage.
 
-4. **"Institutional Investors' Engagement and the Size Effect on Stock Market Performance."**
+4. **"Forgetting to Collect: Memory and Financial Inaction."**
+   Uses 107,000 uncollected Lido staking withdrawals to separate memory from inattention in
+   financial inaction, estimating a structural model of a consideration set that fades with
+   time and is restored by a cue.
+
+5. **"Private Enforcement after Public Enforcement: Evidence from the Sanction and Delisting
+   of Tornado Cash."** *(Preliminary draft)*
+   Uses the sanction and later delisting of Tornado Cash as a natural experiment to show that
+   private screening by intermediaries, rather than the public sanction, keeps users from
+   returning to a market for anonymity once enforcement is reversed.
+
+6. **"Incremental Value of Data and Conditional Mutual Information."**
+
+7. **"The Geometry of Information Value: Alignment and Endogenous Dimensionality."**
+
+8. **"Institutional Investors' Engagement and the Size Effect on Stock Market Performance."**
    with Haruta Osaki and Kotaro Inoue.
 
-5. **"Selection and Effects of Environmental and Social Engagements by Institutional Investors."**
+9. **"Selection and Effects of Environmental and Social Engagements by Institutional Investors."**
    with Kexin Lin and Kotaro Inoue.
    [[RIETI DP]](https://www.rieti.go.jp/en/publications/summary/23120012.html) ·
    [[SSRN]](https://papers.ssrn.com/sol3/papers.cfm?abstract_id=4678986)
 
-6. **"Corporate Networks, Co-patenting, and Technological Innovation."**
+10. **"Corporate Networks, Co-patenting, and Technological Innovation."**
