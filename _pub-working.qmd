@@ -1,7 +1,7 @@
 <!-- Shared single-source partial. Edit here to update BOTH Research and CV. -->
 
 1. **"Self-serving Attribution Bias and Corporate Actions."**
-   with Ying Chen and Kotaro Inoue. *(Under review)*
+   with Ying Chen and Kotaro Inoue. *(R&R, Journal of Corporate Finance)*
    *Best Paper Award, Corporate Finance Research Award (Mizuho Securities Endowed Chair,
    Kyoto University Graduate School of Management).*
 
